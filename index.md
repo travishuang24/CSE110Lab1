@@ -2,7 +2,7 @@
 - [Hi! Welcome to My User Page!](#hi-welcome-to-my-user-page)
   - [About Me](#about-me)
   - [Favorite Quote](#favorite-quote)
-  - [Skills \& Interests](#skills--interests)
+  - [Skills and Interests](#skills-and-interests)
   - [Code Snippet](#code-snippet)
   - [Useful Links](#useful-links)
   - [Goals for this year](#goals-for-this-year)
@@ -25,7 +25,7 @@ Hello! My name is Travis Huang, a tech enthusiast. I love building new things, s
 
 ---
 
-## Skills & Interests
+## Skills and Interests
 
 - Programming Languages: Python, C++, C, Java
 - Tech interests: AI, Machine Learning, App Development
