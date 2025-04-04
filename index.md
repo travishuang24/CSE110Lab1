@@ -1,16 +1,6 @@
-## Table of Contents
-- [Hi! Welcome to My User Page!](#hi-welcome-to-my-user-page)
-  - [About Me](#about-me)
-  - [Favorite Quote](#favorite-quote)
-  - [Skills and Interests](#skills-and-interests)
-  - [Code Snippet](#code-snippet)
-  - [Useful Links](#useful-links)
-  - [Goals for this year](#goals-for-this-year)
-  - [Steps to lose 5kg](#steps-to-lose-5kg)
-
 # Hi! Welcome to My User Page! 
 
-![Profile Picture](images/MyProfile.jpg)
+[View my photo at Cloud Forest](images/MyProfile.jpg)
 
 
 ## About Me
